@@ -1,4 +1,4 @@
-print("welcome to the guessing game please pick a number 1 to 10 and I will try to guess it")
+print("welcome to the guessing game! please pick a number 1 to 10 and I will try to guess it.")
 
 guess = 5
 correct = False
